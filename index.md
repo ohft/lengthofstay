@@ -7,10 +7,11 @@
 #
 layout: home
 ---
+<img style="float: right;" src="https://github.com/ohft/adult-acute-care/raw/main/ohft%20logo%20smaller%20new.png">
 
 # Length of inpatient stays in adult acute care
 
-<img style="float: right;" src="https://github.com/ohft/adult-acute-care/raw/main/ohft%20logo%20smaller%20new.png">
+
 
 ## Oxford Health NHS Foundation Trust
 
