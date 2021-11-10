@@ -11,8 +11,6 @@ layout: home
 
 # Length of inpatient stays in adult acute care
 
-
-
 ## Oxford Health NHS Foundation Trust
 
 Predicting hospital demand entails estimating a patient's length of stay (LOS) and the probability that a patient will require longer-term admission and more resources (beds, staff, equipment). Estimating LOS is challenging as it requires investigating patients' trajectories whilst accounting for complexities in the data.
