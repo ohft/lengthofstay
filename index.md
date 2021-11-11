@@ -62,8 +62,8 @@ Use the graph to:
 
 If you have any concerns, questions or feedback, please contact:
 
-* Researcher: Shabeer Syed,1  Trainee Clinical Psychologist, shabeer.syed@oxfordhealth.nhs.uk 
-* Supervisor: Prof Paul Salkovskis,1  Professor of Clinical Psychology, paul.salkovskis@oxfordhealth.nhs.uk
+* **Researcher:** Shabeer Syed,1  Trainee Clinical Psychologist, shabeer.syed@oxfordhealth.nhs.uk 
+* **Supervisor:** Prof Paul Salkovskis,1  Professor of Clinical Psychology, paul.salkovskis@oxfordhealth.nhs.uk
 
 For Oxford Health oversight:
 
@@ -73,11 +73,9 @@ For Oxford Health oversight:
 
 1 [Oxford Institute of Clinical Psychology Training and Research](https://oxicptr.web.ox.ac.uk/people#/), University of Oxford and Oxford Health NHS Foundation Trust, Warneford Hospital, Headington, Oxford, OX3 7JX
 
-2 [Adult Directorate Management Team]([Oxford Health NHS Foundation Trust](https://www.oxfordhealth.nhs.uk/about-us/), Oxford Health NHS Foundation Trust
+2 [Adult Directorate Management Team, Oxford Health NHS Foundation Trust](https://www.oxfordhealth.nhs.uk/about-us/), Oxford Health NHS Foundation Trust
 
 3 [Mental Health Urgent Care and Social Care, Oxfordshire BSW Mental Health Directorate](https://www.oxfordhealth.nhs.uk/about-us/), Oxford Health NHS Foundation Trust
-
-Oxford Health NHS Foundation Trust | University of Oxford
 
 
 [![](https://www.oxfordhealth.nhs.uk/wp-content/uploads/2017/12/sign-wintle-1140x300.jpg)](https://www.oxfordhealth.nhs.uk/)
