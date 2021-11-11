@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: home
 title: What do staff think?
 permalink: /interviews/
 ---
+
 <img style="float: right;" src="https://raw.githubusercontent.com/ohft/lengthofstay/master/ohft%20logo%20smaller%20new.png">
 
 # Staff interviews and learning experiences
