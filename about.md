@@ -3,16 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
+This research was commissioned by the Adult Acute and Urgent Care Management team  Oxford Health NHS Foundation Trust to inform local interventions to reduce delayed discharges of adult psychiatric admissions.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Aims
+The research was conducted in two study phases to seek answers on:
+•	How many adult delayed transfers of care have occurred in the Trust between 2016-2021?
+•	How many patients have spent more than 56 days in hospital (locally defined delayed discharge/national average: 51 days)?
+•	What do key staff who engage in discharge decisions think the barriers and facilitators are for earlier discharge based on past learning experiences of delays?
+•	Which patient, clinical and service level factors (internal/external) influence LOS in our adult inpatient units?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Methods
+We completed:
+•	A thematic analysis of 17 semi-structured interviews with in-patient staff, focusing on learning experiences of barriers and facilitators to early discharge;
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+•	A statistical risk prediction model to identify significant factors that influence LOS, potential delays and readmissions. Estimates are based on data from 5351 admissions in the OHFTs seven adult in-patient units (2015-2021).
 
+This websites shows a graphical version of the results and risk calculator.
 
-[jekyll-organization]: https://github.com/jekyll
