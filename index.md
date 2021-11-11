@@ -13,13 +13,12 @@ layout: home
 
 Predicting hospital demand entails estimating a patient's length of stay (LOS) and the probability that a patient will require longer-term admission and more resources (beds, staff, equipment). Estimating LOS is challenging as it requires investigating patients' trajectories whilst accounting for complexities in the data.
 
-<span style="color:red">This site is under development and accompanies the manuscript *"Risk prediction model of length of stays, delayed discharges and readmissions in adult psychiatric inpatient units in England: a mixed methods study"* pending submission for journal peer-review.
-The content should not be used until the final article has been published. The information is not intended for clinical use. </span>
+<span style="color:red">This site is under development and accompanies the manuscript *"Risk prediction model of length of stays, delayed discharges and readmissions in adult psychiatric inpatient units in England: a mixed methods study"* pending submission for journal peer-review. **The content should not be used until the final article has been published. The information is not intended for clinical use.** </span>
 
 ## How long will a patient stay in hospital? 
 ------------------------------------------
 
-**A graphical risk prediction model** 
+**A graphical risk prediction model:** 
 We estimated the probability of LOS for different patient and service characteristics whilst adjusting for differences between wards, ages and gender.
 The graph estimates patients probability of staying in hospital over time by type of mental health problem with the option to add risk factors.
 *More features will be added soon.*
@@ -55,20 +54,27 @@ Use the graph to:
 *Adjusted for age, sex, admission year, and ward of discharge
 
 ## Contact
-This research is conducted by:
+-------------------
 
-Shabeer Syed, Trainee Clinical Psychologist, shabeer.syed@oxfordhealth.nhs.uk 
-Supervised by Prof Paul Salkovskis
+If you have any concerns, questions or feedback, please contact:
+Researcher: Shabeer Syed,1  Trainee Clinical Psychologist, shabeer.syed@oxfordhealth.nhs.uk 
+Supervisor: Prof Paul Salkovskis,1  Professor of Clinical Psychology, paul.salkovskis@oxfordhealth.nhs.uk
+
+For Oxford Health oversight:
+Angela Bird,2 Patient Flow Transformation lead
+Catherine Sage,3 Head of Service, Adult Mental Health Urgent Care and Social Care
+Dr Rob Bale,2 Clinical Director and Consultant Psychatrist
+
+1 [Oxford Institute of Clinical Psychology Training and Research](https://oxicptr.web.ox.ac.uk/people#/), University of Oxford and Oxford Health NHS Foundation Trust, Warneford Hospital, Headington, Oxford, OX3 7JX
+
+2 [Adult Directorate Management Team]([Oxford Health NHS Foundation Trust](https://www.oxfordhealth.nhs.uk/about-us/), Oxford Health NHS Foundation Trust
+
+3 [Mental Health Urgent Care and Social Care, Oxfordshire BSW Mental Health Directorate](https://www.oxfordhealth.nhs.uk/about-us/), Oxford Health NHS Foundation Trust
 
 Oxford Health NHS Foundation Trust | University of Oxford
-The Oxford Centre for Psychological Health and research | Isis Centre 
-https://oxicptr.web.ox.ac.uk/home#/
-Warneford Hospital | Warneford Lane
 
-If you have any concerns, questions or feedback, please contact us. 
 
 [![](https://www.oxfordhealth.nhs.uk/wp-content/uploads/2017/12/sign-wintle-1140x300.jpg)](https://www.oxfordhealth.nhs.uk/)
 
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-
