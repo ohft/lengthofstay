@@ -7,11 +7,14 @@
 #
 layout: home
 ---
-<img style="float: right;" src="https://github.com/ohft/adult-acute-care/raw/main/ohft%20logo%20smaller%20new.png">
+<img style="float: right;" src="https://raw.githubusercontent.com/ohft/lengthofstay/master/ohft%20logo%20smaller%20new.png">
 
 # Length of inpatient stays in adult acute care
 
 Predicting hospital demand entails estimating a patient's length of stay (LOS) and the probability that a patient will require longer-term admission and more resources (beds, staff, equipment). Estimating LOS is challenging as it requires investigating patients' trajectories whilst accounting for complexities in the data.
+
+<span style="color:red">This site is under development and accompanies the manuscript *"Risk prediction model of length of stays, delayed discharges and readmissions in adult psychiatric inpatient units in England: a mixed methods study"* pending submission for journal peer-review.
+The content should not be used until the final article has been published. The information is not intended for clinical use. </span>
 
 ### How long will a patient stay in hospital? - A graphical risk prediction model
 We estimated the probability of LOS for different patient and service characteristics whilst adjusting for differences between wards, ages and gender.
@@ -49,10 +52,7 @@ Use the graph to:
 *Adjusted for age, sex, admission year, and ward of discharge
 
 ## Contact
-<span style="color:red">This site is under development and accompanies the manuscript *"Risk prediction model of length of stays, delayed discharges and readmissions in adult psychiatric inpatient units in England: a mixed methods study"* pending submission for journal peer-review.
-The content should not be used until the final article has been published. The information is not intended for clinical use. </span>
-
-**This research is conducted by:**
+This research is conducted by:
 
 Shabeer Syed, Trainee Clinical Psychologist, shabeer.syed@oxfordhealth.nhs.uk 
 Supervised by Prof Paul Salkovskis
