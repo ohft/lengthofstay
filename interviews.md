@@ -4,6 +4,8 @@ title: What do staff think?
 permalink: /interviews/
 ---
 
+We completed a thematic analysis of 17 semi-structured interviews with in-patient staff, focusing on learning experiences of barriers and facilitators to early discharge. Summaries below contain key themes and illustrative quotes. 
+
 # Barriers
 ----------------------
 
