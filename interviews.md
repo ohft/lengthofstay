@@ -1,12 +1,9 @@
 ---
 layout: home
-title: What do staff think?
+title: Staff interviews and learning experiences
 permalink: /interviews/
 ---
-
 <img style="float: right;" src="https://raw.githubusercontent.com/ohft/lengthofstay/master/ohft%20logo%20smaller%20new.png">
-
-# Staff interviews and learning experiences
 
 We completed a thematic analysis of 17 semi-structured interviews with in-patient staff, focusing on learning experiences of barriers and facilitators to early discharge. Summaries below contain key themes and illustrative quotes. 
 
