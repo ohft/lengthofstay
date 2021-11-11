@@ -7,6 +7,23 @@ permalink: /interviews/
 # Barriers
 ----------------------
 
+ | Primary diagnosis |
+ | --- |
+ | **Overall estimate (2016-2021)** | 
+ | **Bipolar disorders** | 93.4 (74.2-112.7) | 
+ | **Learning/Intellectual disability** | 86.0 (32.7-139.2) | 
+ | **Psychosis** | 77.2 (71.9-82.5) | 
+ | **Dementia** | 65.2 (6.8-123.5) | 
+ | **Anxiety disorders** | 55.7 (34.4-76.9) | 
+ | **Any comorbid substance misuse** | 46.7 (40.0-53.4) | 
+ | **Neurodevelopmental disorder** | 43.0 (19.4-66.6) | 
+ | **Eating disorders** | 40.3 (-5, 85.7) | 
+ | **Depressive episode** | 31.3 (21.5-41.1) | 
+ | **Mental health problem NOS** | 20.5 (-4.6, 45.6) | 
+ | **Personality disorder** | 20.0 (10.6-29.3) | 
+ | **Drug misuse (primary admission cause)** | 19.5 (4.2-34.8) | 
+ | **Trauma- and stressor-related disorders** | 14.4 (-0.8, 29.6) | 
+
  | Lack of resources & Teamwork and liaison between roles and services | 
  | --- | 
  | **Staffing needs and quality of care (agency staff/competent staff)** “…I mean writing a protocol, a “red2green” schedule, doing the reviews, or building an entire system - that’s all right. But, if you haven’t got enough staff with the skill set to deliver it, then no matter how good I am operationalising it, the rest of it is just never going to work....” — Consultant 1
