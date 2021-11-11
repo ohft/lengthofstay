@@ -33,7 +33,10 @@ Use the graph to:
 <div class="flourish-embed flourish-chart" data-src="visualisation/7620590" data-width="800px" data-height="600px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-## Average lengths of stays*
+## What is the lenght of stays on our adult wards?
+----------------------
+
+### Average lengths of stays*
 
  | Primary diagnosis | Average in days (95% CI) | 
  | --- | --- | 
