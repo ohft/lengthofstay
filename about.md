@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+<img style="float: right;" src="https://raw.githubusercontent.com/ohft/lengthofstay/master/ohft%20logo%20smaller%20new.png">
+
 This research was commissioned by the Adult Acute and Urgent Care Management team  Oxford Health NHS Foundation Trust to inform local interventions to reduce delayed discharges of adult psychiatric admissions.
 
 Aims
