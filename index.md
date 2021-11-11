@@ -40,6 +40,7 @@ Use the graph to:
 
  | Primary diagnosis | Average in days (95% CI) | 
  | --- | --- | 
+ | **Overall estimate (2016-2021)** | 58.4 (50.9-65.49) | 
  | **Bipolar disorders** | 93.4 (74.2-112.7) | 
  | **Learning/Intellectual disability** | 86.0 (32.7-139.2) | 
  | **Psychosis** | 77.2 (71.9-82.5) | 
