@@ -61,13 +61,15 @@ Use the graph to:
 -------------------
 
 If you have any concerns, questions or feedback, please contact:
-Researcher: Shabeer Syed,1  Trainee Clinical Psychologist, shabeer.syed@oxfordhealth.nhs.uk 
-Supervisor: Prof Paul Salkovskis,1  Professor of Clinical Psychology, paul.salkovskis@oxfordhealth.nhs.uk
+
+* Researcher: Shabeer Syed,1  Trainee Clinical Psychologist, shabeer.syed@oxfordhealth.nhs.uk 
+* Supervisor: Prof Paul Salkovskis,1  Professor of Clinical Psychology, paul.salkovskis@oxfordhealth.nhs.uk
 
 For Oxford Health oversight:
-Angela Bird,2 Patient Flow Transformation lead
-Catherine Sage,3 Head of Service, Adult Mental Health Urgent Care and Social Care
-Dr Rob Bale,2 Clinical Director and Consultant Psychatrist
+
+* Angela Bird,2 Patient Flow Transformation lead
+* Catherine Sage,3 Head of Service, Adult Mental Health Urgent Care and Social Care
+* Dr Rob Bale,2 Clinical Director and Consultant Psychatrist
 
 1 [Oxford Institute of Clinical Psychology Training and Research](https://oxicptr.web.ox.ac.uk/people#/), University of Oxford and Oxford Health NHS Foundation Trust, Warneford Hospital, Headington, Oxford, OX3 7JX
 
