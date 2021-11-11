@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "twitter_username:"
   This site is under development and accompanies the manuscript “Risk prediction model of length of stays, delayed discharges and readmissions in adult psychiatric inpatient units in England: a mixed methods study” pending submission for journal peer-review. The content should not be used until the final article has been published. The information is not intended for clinical use.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: oxfordhealthnhs
+github_username:  ohft
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
