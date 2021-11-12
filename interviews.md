@@ -9,6 +9,7 @@ We completed a thematic analysis of 17 semi-structured interviews with in-patien
 
 # Barriers
 ----------------------
+<img style="float: right;" src="https://raw.githubusercontent.com/ohft/lengthofstay/master/speech%20buble.png">
 
  | Lack of resources & Teamwork and liaison between roles and services |
  | --- |
