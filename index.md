@@ -13,6 +13,8 @@ layout: home
 
 Predicting hospital demand entails estimating a patient's length of stay (LOS) and the probability that a patient will require longer-term admission and more resources (beds, staff, equipment). Estimating LOS is challenging as it requires investigating patients' trajectories whilst accounting for complexities in the data.
 
+> “I think there is a place for working out or projecting how somebody is going to be, because very often is that “they’re back again, and they’ve done what they did four times previously, they’re going to be in…” - Consultant Psychiatrist
+
 <span style="color:red">This site is under development and accompanies the manuscript *"Risk prediction model of length of stays, delayed discharges and readmissions in adult psychiatric inpatient units in England: a mixed methods study"* pending submission for journal peer-review. **The content should not be used until the final article has been published. The information is not intended for clinical use.** </span>
 
 ## How long will a patient stay in hospital? 
