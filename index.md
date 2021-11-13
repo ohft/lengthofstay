@@ -29,7 +29,7 @@ Predicting hospital demand entails estimating a patient's length of stay (LOS) a
 * Predict which patient, clinical and service level factors (internal/external) influence LOS in our adult inpatient units?
 
  > *“I think there is a place for working out or projecting how somebody is going to be, because very often is that “they’re back again, and they’ve done what they did four times previously, they’re going to be in…” - Consultant Psychiatrist*
- > 
+
 ## How long will a patient stay in hospital? 
 ------------------------------------------
 
