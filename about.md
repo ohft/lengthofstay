@@ -25,3 +25,29 @@ We completed:
 •	A statistical risk prediction model to identify significant factors that influence LOS, potential delays and readmissions. Estimates are based on data from 5351 admissions in the OHFTs seven adult in-patient units (2015-2021).
 
 This websites shows a graphical version of the results and risk calculator.
+
+## Contact
+-------------------
+
+If you have any concerns, questions or feedback, please contact:
+
+* **Researcher:** Shabeer Syed,<sup>1</sup> Trainee Clinical Psychologist, shabeer.syed@oxfordhealth.nhs.uk 
+* **Supervisor:** Prof Paul Salkovskis,<sup>1</sup>  Professor of Clinical Psychology, paul.salkovskis@oxfordhealth.nhs.uk
+
+For Oxford Health oversight:
+
+* Angela Bird,<sup>2</sup> Patient Flow Transformation lead
+* Catherine Sage,<sup>3</sup> Head of Service, Adult Mental Health Urgent Care and Social Care
+* Dr Rob Bale,<sup>3</sup> Clinical Director and Consultant Psychatrist
+
+<sup>1</sup>[Oxford Institute of Clinical Psychology Training and Research](https://oxicptr.web.ox.ac.uk/people#/), University of Oxford and Oxford Health NHS Foundation Trust, Warneford Hospital, Headington, Oxford, OX3 7JX
+
+<sup>2</sup>[Adult Directorate Management Team, Oxford Health NHS Foundation Trust](https://www.oxfordhealth.nhs.uk/about-us/), Oxford Health NHS Foundation Trust
+
+<sup>1</sup>[Mental Health Urgent Care and Social Care, Oxfordshire BSW Mental Health Directorate](https://www.oxfordhealth.nhs.uk/about-us/), Oxford Health NHS Foundation Trust
+
+
+[![](https://www.oxfordhealth.nhs.uk/wp-content/uploads/2017/12/sign-wintle-1140x300.jpg)](https://www.oxfordhealth.nhs.uk/)
+
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
