@@ -22,7 +22,7 @@ Predicting hospital demand entails estimating a patient's length of stay (LOS) a
 
 * Interview and analyse themes from clinicians and social workers to understand barriers and facilitators to early discharges and delays?
 
-> “…I mean writing a protocol, a “red2green” schedule, doing the reviews, or building an entire system - that’s all right. But, if you haven’t got enough staff with the skill set to deliver it, then no matter how good I am operationalising it, the rest of it is just never going to work....” — Consultant 1
+> “…I mean writing a protocol, a “red2green” schedule, doing the reviews, or building an entire system - that’s all right. But, if you haven’t got enough staff with the skill set to deliver it, then no matter how good I am operationalising it, the rest of it is just never going to work....” — Participant 1
 
 * Predict which patients are most likely to become "long stayers" (stay in hospital for more than 56 days)
 
