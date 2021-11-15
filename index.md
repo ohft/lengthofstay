@@ -53,7 +53,7 @@ Use the graph to:
 
 ### Average lengths of stays*
 
- | Primary diagnosis | Average in days (95% CI) | + >50 years | + Most deprived |
+ | Primary diagnosis | Average in days (95% CI) | + >50 years | + Most deprived | 
  | --- | --- | --- | --- | 
  | **Overall estimate (2016-2021)** | 58.4 (50.9-65.49) | 64.3 (57.4-71.3) | 73.1 (65.5-80.7)	
  | **Bipolar disorders** | 93.4 (74.2-112.7) | 95.5 (75.7-115.3) | 105.9 (85.7-126.1)	
