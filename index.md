@@ -45,8 +45,7 @@ Use the graph to:
 * Check which patients are likely to stay for a longer period
 * Focus on specific time periods using the drop down menu labelled "All".
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7620590" data-width="800px" data-height="600px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<div class="flourish-embed" data-src="story/1039813"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## What is the lenght of stays on our adult wards?
 ----------------------
