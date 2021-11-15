@@ -15,21 +15,6 @@ Predicting hospital demand entails estimating a patient's length of stay (LOS) a
 
 <span style="color:red">This site is under development and accompanies the manuscript *"Risk prediction model of length of stays, delayed discharges and readmissions in adult psychiatric inpatient units in England: a mixed methods study"* pending submission for journal peer-review. **The content should not be used until the final article has been published. The information is not intended for clinical use.** </span>
 
-## Why?
-------------------------------------------
-
-**This project aimed to:**
-
-* Interview and analyse themes from clinicians and social workers to understand barriers and facilitators to early discharges and delays?
-
-> “…I mean writing a protocol, a “red2green” schedule, doing the reviews, or building an entire system - that’s all right. But, if you haven’t got enough staff with the skill set to deliver it, then no matter how good I am operationalising it, the rest of it is just never going to work....” — Participant 1
-
-* Predict which patients are most likely to become "long stayers" (stay in hospital for more than 56 days)
-
-* Predict which patient, clinical and service level factors (internal/external) influence LOS in our adult inpatient units?
-
- > *“I think there is a place for working out or projecting how somebody is going to be, because very often is that “they’re back again, and they’ve done what they did four times previously, they’re going to be in…” - Participant 2*
-
 ## How long will a patient stay in hospital? 
 ------------------------------------------
 
