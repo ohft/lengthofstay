@@ -53,23 +53,23 @@ Use the graph to:
 
 ### Average lengths of stays*
 
- | Primary diagnosis | Average in days (95% CI) | 
- | --- | --- | 
- | **Overall estimate (2016-2021)** | 58.4 (50.9-65.49) | 
- | **Bipolar disorders** | 93.4 (74.2-112.7) | 
- | **Learning/Intellectual disability** | 86.0 (32.7-139.2) | 
- | **Psychosis** | 77.2 (71.9-82.5) | 
- | **Dementia** | 65.2 (6.8-123.5) | 
- | **Anxiety disorders** | 55.7 (34.4-76.9) | 
- | **Any comorbid substance misuse** | 46.7 (40.0-53.4) | 
- | **Neurodevelopmental disorder** | 43.0 (19.4-66.6) | 
- | **Eating disorders** | 40.3 (-5, 85.7) | 
- | **Depressive episode** | 31.3 (21.5-41.1) | 
- | **Mental health problem NOS** | 20.5 (-4.6, 45.6) | 
- | **Personality disorder** | 20.0 (10.6-29.3) | 
- | **Drug misuse (primary admission cause)** | 19.5 (4.2-34.8) | 
- | **Trauma- and stressor-related disorders** | 14.4 (-0.8, 29.6) | 
-
+ | Primary diagnosis | Average in days (95% CI) | + >50 years |
+ | --- | --- | --- | 
+ | **Overall estimate (2016-2021)** | 58.4 (50.9-65.49) | 64.3 (57.4-71.3) | 73.1 (65.5-80.7)	
+ | **Bipolar disorders** | 93.4 (74.2-112.7) | 95.5 (75.7-115.3) | 105.9 (85.7-126.1)	
+ | **Learning/Intellectual disability** | 86.0 (32.7-139.2) | 86.4 (32.3-140.5) | 97.6 (43.4-151.8) 
+ | **Psychosis** | 77.2 (71.9-82.5) | 82.9 (75.5-90.4) | 91.6 (83.8-99.5) 
+ | **Dementia** | 65.2 (6.8-123.5) | 68.1 (9-127.2) | 81.7 (22.4-141.1) 
+ | **Anxiety disorders** | 55.7 (34.4-76.9) | 62.1 (39.7-84.4) | 73.3 (50.5-96.1)	
+ | **Any comorbid substance misuse** | 46.7 (40.0-53.4) | 56.8 (48-65.6) | 65.5 (56.5-74.4) 
+ | **Neurodevelopmental disorder** | 43.0 (19.4-66.6) | 49.5 (24.5-74.5) | 58.8 (33.9-83.6)	
+ | **Eating disorders** | 40.3 (-5, 85.7) | 	45 (-0.5-90.6) | 54 (8.6-99.5) 
+ | **Depressive episode** | 31.3 (21.5-41.1) | 34.6 (24-45.3) | 46.7 (34.7-58.7) 
+ | **Mental health problem NOS** | 20.5 (-4.6, 45.6) | 25.4 (-0.3-51) | 32.5 (7.0-57.9)	
+ | **Personality disorder** | 20.0 (10.6-29.3) | 26.4 (14.8-38) | 34.8 (23.5-46.1) 
+ | **Drug misuse (primary admission cause)** | 19.5 (4.2-34.8) | 24.5 (7.9-41.1) | 33.1 (16.7-49.6)	
+ | **Trauma- and stressor-related disorders** | 14.4 (-0.8, 29.6) | 19.8 (3.2-36.4) | 29.2 (12.4-46) 
+ 
 *Adjusted for age, sex, admission year, and ward of discharge
 
 ## Contact
