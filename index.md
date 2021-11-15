@@ -32,6 +32,8 @@ Use the graph to:
 
 <div class="flourish-embed" data-src="story/1039813"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+
 ## What is the lenght of stays on our adult wards?
 ----------------------
 
