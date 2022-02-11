@@ -11,7 +11,33 @@ layout: home
 
 # Length of inpatient stays in adult acute care
 
-Predicting hospital demand entails estimating a patient's length of stay (LOS) and the probability that a patient will require longer-term admission and more resources (beds, staff, equipment). Estimating LOS is challenging as it requires investigating patients' trajectories whilst accounting for complexities in the data.
+### Introduction
+Longer hospital stays can have profound effects on patients’ health and development. Over the past 40 years, there has been a significant reduction of inpatient mental health beds, with increasing pressure on services to reduce lengths of stay (LOS). Whilst there has been consensus on this approach, reducing LOS has not always been successful. Reports reveal that no significant reduction of LOS for psychiatric admissions have happened in the NHS over the past 15 years. This could be due to the current occupancy levels and LOS being optimal, or due to systemic problems preventing further progress. The extent to which clinical and service factors can impact LOS is also not well understood.
+
+
+This research was commissioned by the Mental Health Urgent Care and Social Care Team at Oxford Health NHS Foundation Trust to inform local interventions to reduce delayed discharges of adult psychiatric admissions.
+
+### Aims
+The research was conducted in two study phases to seek answers on: 
+•	What do clinicians and social workers think about delayed discharges (e.g. do we have a problem)?
+
+•	What do staff think are the barriers and facilitators to preventing delayed discharges?
+
+•	How many delayed transfers of care in the Trust are adult acute admissions (2016-2021)?
+
+•	How many patients have spent more than 56 days in hospital (locally defined “delayed discharge”/national average: 51 days)?
+
+•	Which patient, clinical and service level factors influence LOS in OHFT’s adult inpatient units?
+
+### Methods
+We completed:
+•	A thematic analysis of 17 semi-structured interviews with in-patient/community staff (Oxfordshire & Buckinghamshire), focusing on learning experiences of barriers and facilitators to early discharge.
+
+•	A statistical risk prediction model to identify significant factors that influence LOS, potential delays and readmissions. Estimates are based on 5351 admissions in the OHFTs seven adult acute in-patient units (2015-2021).
+
+### Key findings 
+The summaries below contain key findings and corresponding recommendations.
+A graphical risk calculator is also available in the graph below.
 
 <span style="color:red">This site is under development and accompanies the manuscript *"Risk prediction model of length of stays, delayed discharges and readmissions in adult psychiatric inpatient units in England: a mixed methods study"* pending submission for journal peer-review. **The content should not be used until the final article has been published. The information is not intended for clinical use.** </span>
 
