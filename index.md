@@ -10,16 +10,14 @@ layout: home
 <img style="float: right;" src="https://raw.githubusercontent.com/ohft/lengthofstay/master/ohft%20smaller%20logo.png">
 
 # Length of inpatient stays in adult acute care
-------------------------------------------
 
-### Introduction
-------------------------------------------
+## Introduction
 Longer hospital stays can have profound effects on patients’ health and development. Over the past 40 years, there has been a significant reduction of inpatient mental health beds, with increasing pressure on services to reduce lengths of stay (LOS). Whilst there has been consensus on this approach, reducing LOS has not always been successful. Reports reveal that no significant reduction of LOS for psychiatric admissions have happened in the NHS over the past 15 years. This could be due to the current occupancy levels and LOS being optimal, or due to systemic problems preventing further progress. The extent to which clinical and service factors can impact LOS is also not well understood.
 
 
 This research was commissioned by the Mental Health Urgent Care and Social Care Team at Oxford Health NHS Foundation Trust to inform local interventions to reduce delayed discharges of adult psychiatric admissions.
 
-### Aims
+## Aims
 The research was conducted in two study phases to seek answers on: 
 •	What do clinicians and social workers think about delayed discharges (e.g. do we have a problem)?
 
@@ -31,14 +29,13 @@ The research was conducted in two study phases to seek answers on:
 
 •	Which patient, clinical and service level factors influence LOS in OHFT’s adult inpatient units?
 
-### Methods
-------------------------------------------
+## Methods
 We completed:
 •	A thematic analysis of 17 semi-structured interviews with in-patient/community staff (Oxfordshire & Buckinghamshire), focusing on learning experiences of barriers and facilitators to early discharge.
 
 •	A statistical risk prediction model to identify significant factors that influence LOS, potential delays and readmissions. Estimates are based on 5351 admissions in the OHFTs seven adult acute in-patient units (2015-2021).
 
-### Key findings - How long will a patient stay in hospital and why? 
+## Key findings - How long will a patient stay in hospital and why? 
 ------------------------------------------
 The summaries below contain key findings and corresponding recommendations.
 A graphical risk calculator is also available in the graph below.
